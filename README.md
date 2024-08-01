@@ -7,8 +7,11 @@ conda activate annotate
 #### install pip
 conda install pip
 #### install napari
+```bash
 python -m pip install "napari[all]"
+
 #### try napari
+```bash
 napari
 
 ### step2 clone from github
