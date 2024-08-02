@@ -23,3 +23,5 @@ napari
 ```bash
 git clone https://github.com/yin-n/cell_annotation.git
 ```
+
+## Running
